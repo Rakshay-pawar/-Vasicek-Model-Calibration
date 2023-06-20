@@ -1,4 +1,4 @@
-# -Vasicek-Model-Calibration
+# Vasicek-Model-Calibration
 Calibrating the Two-Factor Vasicek Model (N2 Model) using historical Treasury spot rate data. The objective is to identify the constant parameters and state variables that best fit the model to the given historical data.  involves an iterative algorithm and subsequent analysis of the time series properties of deviationsbetween the actual spot rates and the model's predicted rates.
 
 Please go through the "questions asked" to understand what all I did in depth. A brief is given below
